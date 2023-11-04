@@ -1,5 +1,4 @@
 # Terraform-project1
-# Terraform-project1
 # Multi-Tier Web Application Deployment using Terraform on AWS
 
 This project demonstrates how to design and deploy a multi-tier web application on Amazon Web Services (AWS) using Terraform. The solution includes the creation of a custom Virtual Private Cloud (VPC), launching EC2 instances, setting up an Application Load Balancer, configuring auto-scaling, and deploying an RDS database. This comprehensive infrastructure is designed to ensure scalability, high availability, and security.
