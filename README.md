@@ -39,6 +39,7 @@ The project comprises the following key components and steps:
 
 5. **RDS Database:**
    - Launch a Multi-AZ RDS database.
+   - Launch Two private subnets to Multi-RDS DB
    - Configure the RDS security group to only allow access from the web/app tier security group.
 
 ## Getting Started
