@@ -1,2 +1,2 @@
-to see the graph go to this website and paste plan.dot and you will see the graph for whole project 
+to see the graph go to this website and paste plan.dot file and you will see the graph workflow for whole project 
 http://www.webgraphviz.com/
